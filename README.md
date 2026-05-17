@@ -400,7 +400,3 @@ Before submitting changes:
 - Avoid committing `.env` files or credentials
 - Keep changes focused and clearly documented
 
-
-
-
-
